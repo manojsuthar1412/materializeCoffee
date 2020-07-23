@@ -1,0 +1,45 @@
+* {
+  scroll-behavior: smooth;
+  
+}
+
+.nav-wrapper{
+  background-color: #6f4e37;
+}
+
+.brand-logo {
+  margin: 0 20px;
+  font-family: 'Pacifico';
+}
+
+.brand-name {
+  font-family: 'Pacifico';
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #6f4e37;
+}
+
+.parallax-container {
+  min-height: 350px;
+  height: auto;
+}
+
+.coffee-color {
+  color: #6f4e37;
+}
+
+.footer-one {
+  background: #6f4e37;
+}
+
+.footer-two {
+  background: #5d422f;
+}
+
+.nav-icons {
+ position: relative;
+ bottom: -3px;
+ font-size: 18px;
+}
+
